@@ -1,0 +1,15 @@
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\bin\Debug\net9.0\HockeyPlatform.Application.deps.json
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\bin\Debug\net9.0\HockeyPlatform.Application.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\bin\Debug\net9.0\HockeyPlatform.Application.pdb
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\bin\Debug\net9.0\HockeyPlatform.Domain.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\bin\Debug\net9.0\HockeyPlatform.Domain.pdb
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPlatform.Application.csproj.AssemblyReference.cache
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPlatform.Application.AssemblyInfoInputs.cache
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPlatform.Application.AssemblyInfo.cs
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPlatform.Application.csproj.CoreCompileInputs.cache
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPl.7A6F9AC4.Up2Date
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPlatform.Application.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\refint\HockeyPlatform.Application.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\HockeyPlatform.Application.pdb
+D:\Projects\HockeyPlatform\HockeyPlatform.Application\obj\Debug\net9.0\ref\HockeyPlatform.Application.dll

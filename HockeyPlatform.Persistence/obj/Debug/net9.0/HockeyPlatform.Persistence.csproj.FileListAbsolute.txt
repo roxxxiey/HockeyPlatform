@@ -1,0 +1,15 @@
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\bin\Debug\net9.0\HockeyPlatform.Persistence.deps.json
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\bin\Debug\net9.0\HockeyPlatform.Persistence.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\bin\Debug\net9.0\HockeyPlatform.Persistence.pdb
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\bin\Debug\net9.0\HockeyPlatform.Domain.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\bin\Debug\net9.0\HockeyPlatform.Domain.pdb
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPlatform.Persistence.csproj.AssemblyReference.cache
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPlatform.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPlatform.Persistence.AssemblyInfoInputs.cache
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPlatform.Persistence.AssemblyInfo.cs
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPlatform.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPl.DA663555.Up2Date
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPlatform.Persistence.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\refint\HockeyPlatform.Persistence.dll
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\HockeyPlatform.Persistence.pdb
+D:\Projects\HockeyPlatform\HockeyPlatform.Persistence\obj\Debug\net9.0\ref\HockeyPlatform.Persistence.dll
