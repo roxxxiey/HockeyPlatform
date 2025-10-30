@@ -21,10 +21,4 @@
       <ProjectReference Include="..\HockeyPlatform.Persistence\HockeyPlatform.Persistence.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Content Include="..\.dockerignore">
-        <Link>.dockerignore</Link>
-      </Content>
-    </ItemGroup>
-
 </Project>

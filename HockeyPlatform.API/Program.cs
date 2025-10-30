@@ -32,6 +32,19 @@ if (app.Environment.IsDevelopment())
     {
         options.SwaggerEndpoint("/openapi/v1.json", "Api");
     });
+    using (var scope = app.Services.CreateScope())
+    {
+        try
+        {
+            var dbContext = scope.ServiceProvider.GetRequiredService<HockeyPlatformDbContext>();
+            dbContext.Database.Migrate();
+            Console.WriteLine("Development migrations applied successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Migrations failed: {ex.Message}");
+        }
+    }
 }
 
 app.UseHttpsRedirection();
@@ -39,10 +52,11 @@ app.MapControllers();
 app.UseCors(x =>
 {
     x.WithHeaders().AllowAnyHeader();
-    x.WithMethods().AllowAnyOrigin();
+    x.WithOrigins().AllowAnyOrigin();
+    x.WithMethods().AllowAnyMethod();
 });
-app.Run();
 
+app.Run();
 
 // swagger only
 
